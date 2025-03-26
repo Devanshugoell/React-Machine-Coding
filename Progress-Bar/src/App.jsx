@@ -3,7 +3,7 @@ import "./main.css"
 import ProgressBar from "./ProgressBar";
 function App() {
 
-  const bars = [1,100,30,10,50,60,70,20,90,80];
+  const bars = [1,96,30,10,50,60,70,20,90,80];
 
   return (
     <>
