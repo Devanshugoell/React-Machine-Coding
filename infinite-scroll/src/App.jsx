@@ -1,14 +1,13 @@
-import React from "react"
-import './App.css'
+import React from "react";
+import "./App.css";
+import InfiniteScroll from "./components/InfiniteScroll";
 
 function App() {
-  
-
   return (
     <>
-      <h1>This is infinite scroll</h1>
+      <InfiniteScroll />
     </>
-  )
+  );
 }
 
-export default App
+export default App;

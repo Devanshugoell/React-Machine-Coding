@@ -1,0 +1,15 @@
+.image {
+  width: 15em;
+  height: 15em;
+  border-radius: 5px;
+  cursor: pointer;
+  object-fit: cover;
+  margin: 5px;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
